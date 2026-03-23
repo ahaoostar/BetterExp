@@ -1,0 +1,48 @@
+payload:
+  # > RSS & Reading
+  - DOMAIN,rsshub.isrss.com
+  - DOMAIN,rsshub.speednet.icu
+  - DOMAIN,hub.slarker.me
+  - DOMAIN,rss.injahow.cn
+  - DOMAIN,rsshub.pseudoyu.com
+  - DOMAIN,rsshub.rssforever.com
+  - DOMAIN,rsshub.bestblogs.dev
+  - DOMAIN,rss.owo.nz
+  - DOMAIN,rsshub.woodland.cafe
+  - DOMAIN,rsshub.ktachibana.party
+  - DOMAIN,rsshub.sksren.com
+  - DOMAIN-SUFFIX,yangzhi.app
+  
+  # > Visa Services
+  - DOMAIN,myanmar.visa.com
+  - DOMAIN,www.visasoutheasteurope.com
+  - DOMAIN,www.visaeurope.ch
+  - DOMAIN,www.visa.com.br
+  - DOMAIN,www.visa.com.tw
+  - DOMAIN,usa.visa.com
+  # Alternatively, replace the above Visa list with:
+  # - DOMAIN-KEYWORD,visa
+
+  # > Media & Downloads
+  - DOMAIN,vip.dytt-hot.com
+  - DOMAIN,cdn7.ryplay7.com
+  - DOMAIN,v.fengbao8.com
+  - DOMAIN-SUFFIX,novipnoad.net
+
+  # > Tools & Connectivity
+  - DOMAIN-SUFFIX,hc-ping.com
+  - DOMAIN,v4.qrssv.com
+  - DOMAIN,v6.tlkqc.com
+  - DOMAIN,newapi2.sharedchat.top
+  - DOMAIN-SUFFIX,time.is
+  - DOMAIN-SUFFIX,swiftrag.ggff.net
+  - DOMAIN-SUFFIX,swiftai.filegear-sg.me
+
+  # > News
+  - DOMAIN-SUFFIX,zaobao.com
+  
+  
+    # > Domain Register
+  - DOMAIN-SUFFIX,dnshe.com
+  
+  
