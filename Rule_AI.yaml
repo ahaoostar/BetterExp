@@ -1,4 +1,10 @@
 payload:
+
+
+  - DOMAIN,integrate.api.nvidia.com 
+  - DOMAIN,api.us-west-2.modal.direct
+  - DOMAIN,api.jina.ai
+  
   # > Tavily
   - DOMAIN-SUFFIX,tavily.com
   
@@ -8,7 +14,9 @@ payload:
   
   # > ChatGPT
   - DOMAIN-SUFFIX,ai.com
-  - DOMAIN,integrate.api.nvidia.com 
+  
+
+  - DOMAIN-SUFFIX,ollama.com
   #OpenAI
   - DOMAIN,browser-intake-datadoghq.com
   - DOMAIN,chat.openai.com.cdn.cloudflare.net
@@ -144,4 +152,3 @@ payload:
   - DOMAIN-SUFFIX,claude.ai
   - DOMAIN-SUFFIX,claude.com
   - DOMAIN-SUFFIX,claudeusercontent.com
-  
