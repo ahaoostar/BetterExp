@@ -3,6 +3,10 @@
 DOMAIN,integrate.api.nvidia.com
 DOMAIN,api.us-west-2.modal.direct
 DOMAIN,api.jina.ai
+
+# > Opencode 
+DOMAIN-SUFFIX,opencode.ai
+
 # > Tavily
 DOMAIN-SUFFIX,tavily.com
 # > Exa AI
